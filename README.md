@@ -1,84 +1,41 @@
-# 🌸 Iris Flower Classification
+# OIBSIP - Data Science Internship Projects
 
-## 📌 Oasis Infobyte Data Science Internship
+## Name
+Faizan Khan
 
-### 👤 Intern Details
-- **Name:** Faizan Khan
-- **Track:** Data Science
-- **Level:** Level 1
-- **Task:** Iris Flower Classification
+## Organization
+Oasis Infobyte
 
----
+## Internship Domain
+Data Science
 
-## 📖 Project Overview
-The Iris Flower Classification project uses Machine Learning to classify iris flowers into three different species based on their sepal and petal measurements.
+## Repository Description
+This repository contains all the projects completed during my Data Science Internship at Oasis Infobyte.
 
-The three species are:
-- Iris Setosa
-- Iris Versicolor
-- Iris Virginica
+## Completed Tasks
 
----
+### Task 1 - Iris Flower Classification
+- Machine Learning classification using Logistic Regression
+- Data preprocessing
+- Data visualization
+- Model training and evaluation
 
-## 🎯 Objective
-To build a machine learning model that can accurately predict the species of an iris flower using its features.
+### Task 2 - Unemployment Analysis with Python
+- Data cleaning and preprocessing
+- Average unemployment rate by state
+- Unemployment trend by zone
+- Correlation analysis
+- Employment vs Unemployment comparison
+- Distribution visualization by zone
 
----
-
-## 🛠️ Technologies Used
+## Tools & Technologies
 - Python
 - Jupyter Notebook
-- NumPy
 - Pandas
+- NumPy
 - Matplotlib
+- Seaborn
 - Scikit-learn
 
----
-
-## 📂 Dataset
-The project uses the **Iris Dataset**, which contains:
-- Sepal Length
-- Sepal Width
-- Petal Length
-- Petal Width
-- Species
-
----
-
-## 🤖 Machine Learning Model
-- Random Forest Classifier
-
----
-
-## 🚀 Steps Performed
-1. Imported required libraries.
-2. Loaded the Iris dataset.
-3. Performed data preprocessing.
-4. Split the dataset into training and testing sets.
-5. Trained the Random Forest model.
-6. Predicted the flower species.
-7. Evaluated the model using accuracy score.
-
----
-
-## 📊 Result
-The model successfully classifies iris flowers with high accuracy.
-
----
-
-## 📁 Project Structure
-
-```
-DataScience-L1-Task1-IrisFlowerClassification/
-│── Task1_Iris_flower_DataScience.ipynb
-│── README.md
-```
-
----
-
-## 🙏 Acknowledgement
-This project was completed as part of the **Oasis Infobyte Data Science Internship Program**.
-
----
-
-### ⭐ Thank you for visiting this repository!
+## Author
+**Faizan Khan**
