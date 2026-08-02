@@ -28,6 +28,12 @@ This repository contains all the projects completed during my Data Science Inter
 - Employment vs Unemployment comparison
 - Distribution visualization by zone
 
+### Task 3 - Car Price Prediction with Machine Learning
+  - Data Cleaning and preprocessing
+  - Data Visualization
+  - Model Building
+  - Model Performance
+    
 ## Tools & Technologies
 - Python
 - Jupyter Notebook
